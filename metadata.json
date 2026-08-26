@@ -1,0 +1,6 @@
+{
+  "name": "The Whispering House",
+  "description": "A cinematic, atmospheric first-person 3D horror game with exploration, dynamic lighting, supernatural mysteries, spatial audio, and multiple endings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
